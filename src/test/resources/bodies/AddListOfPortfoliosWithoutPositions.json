@@ -1,0 +1,13 @@
+{
+  "id":"${portfolioId}",
+  "name": "system",
+  "description": "system",
+  "owner": "system",
+  "asOfDate": "2021-01-01",
+  "baseCurrency": "USD",
+  "attributes":{
+    "Delete1":1,
+    "Delete2":2
+  },
+  "source": "system"
+}

@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "${positionId}1",
+    "quantity": 174,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}1"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}2",
+    "quantity": 440,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}2"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}3",
+    "quantity": 148,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}3"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}4",
+    "quantity": 283,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}4"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}5",
+    "quantity": 801,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}5"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}6",
+    "quantity": 765,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}6"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}7",
+    "quantity": 600,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}7"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}8",
+    "quantity": 878,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}8"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}9",
+    "quantity": 977,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}9"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}10",
+    "quantity": 720,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}10"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}11",
+    "quantity": 889,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}11"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}12",
+    "quantity": 867,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}12"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}13",
+    "quantity": 133,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}13"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}14",
+    "quantity": 265,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}14"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}15",
+    "quantity": 26,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}15"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}16",
+    "quantity": 901,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}16"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}17",
+    "quantity": 490,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}17"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}18",
+    "quantity": 27,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}18"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}19",
+    "quantity": 121,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}19"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}20",
+    "quantity": 815,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}20"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}21",
+    "quantity": 866,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}21"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}22",
+    "quantity": 552,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}22"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}23",
+    "quantity": 277,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}23"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}24",
+    "quantity": 296,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}24"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}25",
+    "quantity": 458,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}25"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}26",
+    "quantity": 453,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}26"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}27",
+    "quantity": 27,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}27"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}28",
+    "quantity": 957,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}28"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}29",
+    "quantity": 999,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}29"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}30",
+    "quantity": 633,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}30"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}31",
+    "quantity": 610,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}31"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}32",
+    "quantity": 558,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}32"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}33",
+    "quantity": 541,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}33"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}34",
+    "quantity": 724,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}34"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}35",
+    "quantity": 185,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}35"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}36",
+    "quantity": 667,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}36"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}37",
+    "quantity": 298,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}37"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}38",
+    "quantity": 651,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}38"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}39",
+    "quantity": 490,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}39"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}40",
+    "quantity": 749,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}40"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}41",
+    "quantity": 202,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}41"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}42",
+    "quantity": 912,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}42"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}43",
+    "quantity": 824,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}43"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}44",
+    "quantity": 204,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}44"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}45",
+    "quantity": 222,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}45"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}46",
+    "quantity": 70,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}46"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}47",
+    "quantity": 362,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}47"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}48",
+    "quantity": 169,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}48"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}49",
+    "quantity": 717,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}49"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}50",
+    "quantity": 402,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}50"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}51",
+    "quantity": 582,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}51"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}52",
+    "quantity": 577,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}52"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}53",
+    "quantity": 833,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}53"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}54",
+    "quantity": 271,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "TICKER",
+        "id": "${instrumentId}54"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}55",
+    "quantity": 804,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}55"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}56",
+    "quantity": 846,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}56"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Boston": 2
+    }
+  },
+  {
+    "id": "${positionId}57",
+    "quantity": 238,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}57"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}58",
+    "quantity": 794,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}58"
+      }
+    },
+    "attributes": {
+      "ant": 1
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}59",
+    "quantity": 185,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Ann Arbor": 1
+      },
+      "attributes": {
+        "ant": 1
+      },
+      "primaryId": {
+        "idType": "CUSIP",
+        "id": "${instrumentId}59"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  },
+  {
+    "id": "${positionId}60",
+    "quantity": 859,
+    "quantityType": "NumShares",
+    "instrument": {
+      "internalAttributes": {
+        "Boston": 2
+      },
+      "attributes": {
+        "bat": 2
+      },
+      "primaryId": {
+        "idType": "SEDOL",
+        "id": "${instrumentId}60"
+      }
+    },
+    "attributes": {
+      "bat": 2
+    },
+    "internalAttributes": {
+      "Ann Arbor": 1
+    }
+  }
+]

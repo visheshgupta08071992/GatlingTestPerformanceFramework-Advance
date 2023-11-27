@@ -1,0 +1,33 @@
+{
+  "id":"${portfolioId}",
+  "name": "system",
+  "description": "system",
+  "owner": "system",
+  "asOfDate": "2021-01-01",
+  "baseCurrency": "USD",
+  "attributes":{
+    "Delete1":1,
+    "Delete2":2
+  },
+
+  "positions": [
+    {
+      "id": "${positionId}",
+      "instrument": {
+        "primaryId": {
+          "id": "Bug-22-Instrument-1"
+        },
+
+        "blobType": "RML3",
+        "blobData": "Test"
+      },
+      "attributes": {
+        "Test-Port-1-Attr-1": 1,
+        "Test-Port-1-Attr-2": 2,
+        "Test-Port-1-Attr-3": 3
+      },
+      "internalAttributes": {},
+      "quantity": 1.1
+    }],
+  "source": "system"
+}
